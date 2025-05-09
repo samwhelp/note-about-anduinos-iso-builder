@@ -1,5 +1,5 @@
 ---
-title: 建製過程，中斷在「Creating EFI Boot Image」
+title: ISO 建製過程，中斷在「Creating EFI Boot Image」
 nav_order: 1010
 has_children: false
 parent: 開發紀錄
@@ -7,7 +7,7 @@ grand_parent: AnduinOS / ISO Builder / Remix
 ---
 
 
-# 建製過程，中斷在「Creating EFI Boot Image」
+# ISO 建製過程，中斷在「Creating EFI Boot Image」
 
 
 
