@@ -1,5 +1,5 @@
 ---
-title: 放置額外的「File」到「Live System (new_building_os)」
+title: 安裝額外的「File」
 nav_order: 1040
 has_children: false
 parent: 開發紀錄
@@ -7,7 +7,7 @@ grand_parent: AnduinOS / ISO Builder / Remix
 ---
 
 
-# 放置額外的「File」到「Live System (new_building_os)」
+# 安裝額外的「File」
 
 
 
@@ -38,6 +38,6 @@ grand_parent: AnduinOS / ISO Builder / Remix
 
 模組是在「`chroot`」下執行的。
 
-這個資料夾會對應到「Live System」的「/」，
+這個資料夾會對應到「Live System」的「`/`」，
 
-也就是對應到建製過程中的「src/new_building_os」這個資料夾。
+也就是對應到建製過程中的「`src/new_building_os`」這個資料夾。
