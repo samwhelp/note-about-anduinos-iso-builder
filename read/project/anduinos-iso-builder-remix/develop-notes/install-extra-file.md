@@ -34,7 +34,9 @@ grand_parent: AnduinOS / ISO Builder / Remix
 用來安裝額外我想要放置的「File」。
 
 
-想要放置的「File」可以放在「[src/mods/14-my-extra-1020-overlay-mod/asset/overlay](https://github.com/samwhelp/anduinos-iso-builder-remix/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay)」這個資料夾。
+想要放置的「File」，
+
+可以放在「[src/mods/14-my-extra-1020-overlay-mod/asset/overlay](https://github.com/samwhelp/anduinos-iso-builder-remix/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay)」這個資料夾。
 
 模組是在「`chroot`」下執行的。
 

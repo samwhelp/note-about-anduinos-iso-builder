@@ -34,7 +34,9 @@ grand_parent: AnduinOS / ISO Builder / Remix
 用來安裝額外我想要安裝的「Package」。
 
 
-想要安裝的「Package List」可以放在「[src/mods/14-my-extra-1010-package-mod/asset/package/install](https://github.com/samwhelp/anduinos-iso-builder-remix/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod/asset/package/install)」這個資料夾。
+想要安裝的「Package List」，
+
+可以放在「[src/mods/14-my-extra-1010-package-mod/asset/package/install](https://github.com/samwhelp/anduinos-iso-builder-remix/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod/asset/package/install)」這個資料夾。
 
 可以多個檔案，副檔名是「.txt」。
 
