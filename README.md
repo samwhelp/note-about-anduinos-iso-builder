@@ -4,7 +4,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [AnduinOS ISO Builder 探索筆記](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/anduinos-gnome-shell-adjustment) |
+| [AnduinOS ISO Builder 探索筆記](https://samwhelp.github.io/note-about-anduinos-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-iso-builder) |
 | [AnduinOS Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-anduinos-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-gnome-shell) |
 | [AnduinOS 探索筆記](https://samwhelp.github.io/note-about-anduinos/) | [GitHub](https://github.com/samwhelp/note-about-anduinos) |
 
