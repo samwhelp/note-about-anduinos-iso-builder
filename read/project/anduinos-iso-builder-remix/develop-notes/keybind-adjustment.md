@@ -7,7 +7,6 @@ grand_parent: AnduinOS / ISO Builder / Remix
 ---
 
 
-
 # 調整成我個人慣用的「按鍵綁定」
 
 
