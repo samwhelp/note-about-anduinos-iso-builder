@@ -29,7 +29,9 @@ grand_parent: AnduinOS / ISO Builder / Remix
 
 ## 說明
 
-開發一個新的模組「[src/mods/14-my-extra-1020-overlay-mod](https://github.com/samwhelp/anduinos-iso-builder-remix/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod)」，用來安裝額外我想要安裝的「Package」。
+開發一個新的模組「[src/mods/14-my-extra-1020-overlay-mod](https://github.com/samwhelp/anduinos-iso-builder-remix/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod)」，
+
+用來安裝額外我想要放置的「File」。
 
 
 想要放置的「File」可以放在「[src/mods/14-my-extra-1020-overlay-mod/asset/overlay](https://github.com/samwhelp/anduinos-iso-builder-remix/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay)」這個資料夾。
