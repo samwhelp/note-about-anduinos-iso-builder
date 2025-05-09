@@ -42,4 +42,4 @@ grand_parent: AnduinOS / ISO Builder / Remix
 
 檔案的每一行，就是想要安裝的「Package Name」。
 
-接受『行開頭註解「#」』。
+接受『`行開頭註解「#」`』。
