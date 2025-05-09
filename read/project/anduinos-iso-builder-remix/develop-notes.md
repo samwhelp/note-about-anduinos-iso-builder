@@ -14,3 +14,4 @@ parent: AnduinOS / ISO Builder / Remix
 | [調整成我個人慣用的「按鍵綁定」](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix/develop-notes/keybind-adjustment.html) |
 | [安裝額外的「Package」](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix/develop-notes/install-extra-package.html) |
 | [安裝額外的「File」](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix/develop-notes/install-extra-file.html) |
+| [安裝「variety」](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix/develop-notes/install-package-variety.html) |
