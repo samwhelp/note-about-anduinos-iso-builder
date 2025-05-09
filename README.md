@@ -32,10 +32,10 @@
 
 ## Project
 
-| Link | GitHub |
-| ---- | ------ |
-| [AnduinOS / ISO Builder / Remix](https://samwhelp.github.io/anduinos-iso-builder-remix/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix) |
-| [AnduinOS / Live Build Config / Sample](https://samwhelp.github.io/anduinos-live-build-config-sample/) | [GitHub](https://github.com/samwhelp/anduinos-live-build-config-sample) |
+| Link | GitHub | Note |
+| ---- | ------ | ---- |
+| [AnduinOS / ISO Builder / Remix](https://samwhelp.github.io/anduinos-iso-builder-remix/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix.html) |
+| [AnduinOS / Live Build Config / Sample](https://samwhelp.github.io/anduinos-live-build-config-sample/) | [GitHub](https://github.com/samwhelp/anduinos-live-build-config-sample) |  |
 
 
 
