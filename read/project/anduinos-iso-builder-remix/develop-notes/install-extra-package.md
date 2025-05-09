@@ -38,8 +38,8 @@ grand_parent: AnduinOS / ISO Builder / Remix
 
 可以放在「[src/mods/14-my-extra-1010-package-mod/asset/package/install](https://github.com/samwhelp/anduinos-iso-builder-remix/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod/asset/package/install)」這個資料夾。
 
-可以多個檔案，副檔名是「.txt」。
+可以多個檔案，副檔名是「`.txt`」。
 
-檔案的每一行，就是想要安裝的「Package Name」。
+檔案的每一行，就是想要安裝的「`Package Name`」。
 
 接受『`行開頭註解「#」`』。
