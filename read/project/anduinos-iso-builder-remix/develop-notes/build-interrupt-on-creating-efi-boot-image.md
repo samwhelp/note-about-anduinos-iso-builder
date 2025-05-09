@@ -1,6 +1,6 @@
 ---
 title: build-interrupt-on-creating-efi-boot-image
-nav_order: 3010
+nav_order: 1010
 has_children: false
 parent: 開發紀錄
 grand_parent: AnduinOS / ISO Builder / Remix
