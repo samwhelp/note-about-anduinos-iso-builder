@@ -16,6 +16,4 @@ has_children: true
 
 ## 主題
 
-
-## 開發紀錄
-
+* [開發紀錄](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix/develop-notes.html)

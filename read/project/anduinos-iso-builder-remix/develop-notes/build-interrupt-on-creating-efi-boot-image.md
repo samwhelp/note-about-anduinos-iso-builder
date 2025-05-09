@@ -1,5 +1,5 @@
 ---
-title: build-interrupt-on-creating-efi-boot-image
+title: 建製過程，中斷在「Creating EFI Boot Image」
 nav_order: 1010
 has_children: false
 parent: 開發紀錄
@@ -7,7 +7,7 @@ grand_parent: AnduinOS / ISO Builder / Remix
 ---
 
 
-# build-interrupt-on-creating-efi-boot-image
+# 建製過程，中斷在「Creating EFI Boot Image」
 
 
 
