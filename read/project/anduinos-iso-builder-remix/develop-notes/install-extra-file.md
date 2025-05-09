@@ -1,6 +1,6 @@
 ---
 title: 放置額外的「File」到「Live System (new_building_os)」
-nav_order: 1030
+nav_order: 1040
 has_children: false
 parent: 開發紀錄
 grand_parent: AnduinOS / ISO Builder / Remix
