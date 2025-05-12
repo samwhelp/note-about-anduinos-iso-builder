@@ -17,6 +17,7 @@ grand_parent: AnduinOS / ISO Builder / Remix
 * [相關討論](#相關討論)
 * [狀況說明](#狀況說明)
 * [解法](#解法)
+* [相關設定檔](#相關設定檔)
 
 
 
@@ -110,3 +111,20 @@ Depends: gir1.2-gdkpixbuf-2.0, gir1.2-gexiv2-0.10, gir1.2-glib-2.0, gir1.2-gtk-3
 ```
     #imagemagick*
 ```
+
+
+
+
+## 相關設定檔
+
+| 設定檔 |
+| ----- |
+| [~/.config/autostart/variety.desktop](https://github.com/samwhelp/anduinos-iso-builder-remix/blob/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/skel/.config/autostart/variety.desktop#L5) |
+
+
+| 設定檔 |
+| ----- |
+| [~/.config/variety](https://github.com/samwhelp/anduinos-iso-builder-remix/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/skel/.config/variety) |
+| [~/.config/variety/.firstrun](https://github.com/samwhelp/anduinos-iso-builder-remix/blob/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/skel/.config/variety/.firstrun) |
+| [~/.config/variety/history.txt](https://github.com/samwhelp/anduinos-iso-builder-remix/blob/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/skel/.config/variety/history.txt) |
+| [~/.config/variety/variety.conf](https://github.com/samwhelp/anduinos-iso-builder-remix/blob/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/skel/.config/variety/variety.conf) |
