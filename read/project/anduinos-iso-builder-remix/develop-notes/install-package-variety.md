@@ -119,6 +119,7 @@ Depends: gir1.2-gdkpixbuf-2.0, gir1.2-gexiv2-0.10, gir1.2-glib-2.0, gir1.2-gtk-3
 
 | 設定檔 |
 | ----- |
+| [~/.config/autostart](https://github.com/samwhelp/anduinos-iso-builder-remix/blob/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/skel/.config/autostart) |
 | [~/.config/autostart/variety.desktop](https://github.com/samwhelp/anduinos-iso-builder-remix/blob/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/skel/.config/autostart/variety.desktop#L5) |
 
 
