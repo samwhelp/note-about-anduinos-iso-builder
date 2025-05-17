@@ -31,8 +31,19 @@ parent: 連結
 | [#74 - Nvidia drivers not installed, Software & Updates app not installed by default](https://github.com/Anduin2017/AnduinOS/issues/74) |
 
 
+
+
 ### ubuntu-pro-client
 
 | 議題 |
 | ---- |
 | [#71 - fixes and improvements](https://github.com/Anduin2017/AnduinOS/pull/71) |
+
+
+
+
+### installer
+
+| 議題 |
+| ---- |
+| [#75 - Ubiquity installer installed the bootloader in the wrong SSD](https://github.com/Anduin2017/AnduinOS/issues/75) |
