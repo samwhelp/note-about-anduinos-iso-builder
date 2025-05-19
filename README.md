@@ -32,7 +32,7 @@
 
 ## Project
 
-> GitHub Search: [anduinos-iso-builder-remix](https://github.com/samwhelp?tab=repositories&q=anduinos-iso-builder-remix&type=&language=&sort=)
+> GitHub Search: [anduinos-iso-builder-remix](https://github.com/samwhelp?q=anduinos-iso-builder-remix&tab=repositories&type=&language=&sort=)
 
 | Link | GitHub | Note |
 | ---- | ------ | ---- |
