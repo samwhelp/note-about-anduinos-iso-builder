@@ -32,6 +32,8 @@
 
 ## Project
 
+> GitHub Search: [anduinos-iso-builder-remix](https://github.com/samwhelp?tab=repositories&q=anduinos-iso-builder-remix&type=&language=&sort=)
+
 | Link | GitHub | Note |
 | ---- | ------ | ---- |
 | [AnduinOS / ISO Builder / Remix](https://samwhelp.github.io/anduinos-iso-builder-remix/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix.html) |
