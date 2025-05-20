@@ -1,6 +1,6 @@
 ---
-title: AnduinOS / ISO Builder / Remix
-nav_order: 1010
+title: AnduinOS / ISO Builder / Remix / Gnome Shell
+nav_order: 2010
 has_children: true
 ---
 
