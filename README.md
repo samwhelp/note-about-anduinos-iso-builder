@@ -37,19 +37,19 @@
 | Link | GitHub | Note |
 | ---- | ------ | ---- |
 | [AnduinOS / ISO Builder / Remix](https://samwhelp.github.io/anduinos-iso-builder-remix/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix.html) |
-| [AnduinOS / ISO Builder / Remix / Gnome Shell](https://samwhelp.github.io/anduinos-iso-builder-remix-gnome-shell/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell) | Note |
-| [AnduinOS / ISO Builder / Remix / Kde Plasma](https://samwhelp.github.io/anduinos-iso-builder-remix-kde-plasma/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-kde-plasma) | Note |
-| [AnduinOS / ISO Builder / Remix / Xfce](https://samwhelp.github.io/anduinos-iso-builder-remix-xfce/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-xfce) | Note |
-| [AnduinOS / ISO Builder / Remix / Lxqt](https://samwhelp.github.io/anduinos-iso-builder-remix-lxqt/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-lxqt) | Note |
-| [AnduinOS / ISO Builder / Remix / Mate](https://samwhelp.github.io/anduinos-iso-builder-remix-mate/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-mate) | Note |
-| [AnduinOS / ISO Builder / Remix / Cinnamon](https://samwhelp.github.io/anduinos-iso-builder-remix-cinnamon/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-cinnamon) | Note |
-| [AnduinOS / ISO Builder / Remix / Budgie](https://samwhelp.github.io/anduinos-iso-builder-remix-budgie/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-budgie) | Note |
+| [AnduinOS / ISO Builder / Remix / Gnome Shell](https://samwhelp.github.io/anduinos-iso-builder-remix-gnome-shell/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-gnome-shell.html) |
+| [AnduinOS / ISO Builder / Remix / Kde Plasma](https://samwhelp.github.io/anduinos-iso-builder-remix-kde-plasma/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-kde-plasma) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-kde-plasma.html) |
+| [AnduinOS / ISO Builder / Remix / Xfce](https://samwhelp.github.io/anduinos-iso-builder-remix-xfce/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-xfce) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-xfce.html) |
+| [AnduinOS / ISO Builder / Remix / Lxqt](https://samwhelp.github.io/anduinos-iso-builder-remix-lxqt/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-lxqt) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-lxqt.html) |
+| [AnduinOS / ISO Builder / Remix / Mate](https://samwhelp.github.io/anduinos-iso-builder-remix-mate/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-mate) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-mate.html) |
+| [AnduinOS / ISO Builder / Remix / Cinnamon](https://samwhelp.github.io/anduinos-iso-builder-remix-cinnamon/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-cinnamon) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-cinnamon.html) |
+| [AnduinOS / ISO Builder / Remix / Budgie](https://samwhelp.github.io/anduinos-iso-builder-remix-budgie/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-budgie) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-budgie.html) |
 
 
 | Link | GitHub | Note |
 | ---- | ------ | ---- |
-| [AnduinOS / ISO Builder / Remix / Mate with Compiz](https://samwhelp.github.io/anduinos-iso-builder-remix-mate-with-compiz/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz) | Note |
-| [AnduinOS / ISO Builder / Remix / Lxqt with Kwin](https://samwhelp.github.io/anduinos-iso-builder-remix-lxqt-with-kwin/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-lxqt-with-kwin) | Note |
+| [AnduinOS / ISO Builder / Remix / Mate with Compiz](https://samwhelp.github.io/anduinos-iso-builder-remix-mate-with-compiz/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-mate-with-compiz.html) |
+| [AnduinOS / ISO Builder / Remix / Lxqt with Kwin](https://samwhelp.github.io/anduinos-iso-builder-remix-lxqt-with-kwin/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-lxqt-with-kwin) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-lxqt-with-kwin.html) |
 
 
 | Link | GitHub |
