@@ -48,8 +48,8 @@
 
 | Link | GitHub | Note |
 | ---- | ------ | ---- |
-| [AnduinOS / ISO Builder / Remix / Mate with Compiz](https://samwhelp.github.io/anduinos-iso-builder-remix-mate-with-compiz/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-mate-with-compiz.html) |
-| [AnduinOS / ISO Builder / Remix / Lxqt with Kwin](https://samwhelp.github.io/anduinos-iso-builder-remix-lxqt-with-kwin/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-lxqt-with-kwin) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-lxqt-with-kwin.html) |
+| [AnduinOS / ISO Builder / Remix / Mate with Compiz](https://samwhelp.github.io/anduinos-iso-builder-remix-mate-with-compiz/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-mate.html) |
+| [AnduinOS / ISO Builder / Remix / Lxqt with Kwin](https://samwhelp.github.io/anduinos-iso-builder-remix-lxqt-with-kwin/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-lxqt-with-kwin) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-lxqt.html) |
 
 
 | Link | GitHub |
