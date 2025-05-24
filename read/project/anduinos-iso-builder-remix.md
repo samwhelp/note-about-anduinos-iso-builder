@@ -17,3 +17,18 @@ has_children: true
 ## 主題
 
 * [開發紀錄](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix/develop-notes.html)
+
+
+
+
+## 相關筆記
+
+
+
+
+## 相關筆記
+
+| Link | GitHub |
+| ---- | ------ |
+| [AnduinOS Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-anduinos-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-gnome-shell) |
+| [AnduinOS 探索筆記](https://samwhelp.github.io/note-about-anduinos/) | [GitHub](https://github.com/samwhelp/note-about-anduinos) |
