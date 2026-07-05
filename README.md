@@ -13,48 +13,51 @@
 
 ## 主題
 
-* [Source](#source)
-* [Project](#project)
+* [Upstream](#upstream)
+* [Respin](#respin)
 * [相關筆記](#相關筆記)
 
 
 
 
-## Source
+## Upstream
 
-| Source |
-| --- |
-| GitHub / [AnduinOS](https://github.com/Anduin2017/AnduinOS)
-| GitLab / [AnduinOS](https://gitlab.aiursoft.cn/anduin/anduinos)
+### AnduinOS-2
 
-
-
-
-## Project
-
-> GitHub Search: [anduinos-iso-builder-remix](https://github.com/samwhelp?q=anduinos-iso-builder-remix&tab=repositories&type=&language=&sort=)
-
-| Link | GitHub | Note |
-| ---- | ------ | ---- |
-| [AnduinOS / ISO Builder / Remix](https://samwhelp.github.io/anduinos-iso-builder-remix/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix.html) |
-| [AnduinOS / ISO Builder / Remix / Gnome Shell](https://samwhelp.github.io/anduinos-iso-builder-remix-gnome-shell/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-gnome-shell.html) |
-| [AnduinOS / ISO Builder / Remix / Kde Plasma](https://samwhelp.github.io/anduinos-iso-builder-remix-kde-plasma/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-kde-plasma) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-kde-plasma.html) |
-| [AnduinOS / ISO Builder / Remix / Xfce](https://samwhelp.github.io/anduinos-iso-builder-remix-xfce/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-xfce) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-xfce.html) |
-| [AnduinOS / ISO Builder / Remix / Lxqt](https://samwhelp.github.io/anduinos-iso-builder-remix-lxqt/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-lxqt) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-lxqt.html) |
-| [AnduinOS / ISO Builder / Remix / Mate](https://samwhelp.github.io/anduinos-iso-builder-remix-mate/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-mate) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-mate.html) |
-| [AnduinOS / ISO Builder / Remix / Cinnamon](https://samwhelp.github.io/anduinos-iso-builder-remix-cinnamon/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-cinnamon) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-cinnamon.html) |
-| [AnduinOS / ISO Builder / Remix / Budgie](https://samwhelp.github.io/anduinos-iso-builder-remix-budgie/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-budgie) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-budgie.html) |
+| Upstream |
+| -------- |
+| GitHub / [AnduinOS-2](https://github.com/AiursoftWeb/AnduinOS-2) |
 
 
-| Link | GitHub | Note |
-| ---- | ------ | ---- |
-| [AnduinOS / ISO Builder / Remix / Mate with Compiz](https://samwhelp.github.io/anduinos-iso-builder-remix-mate-with-compiz/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-mate.html) |
-| [AnduinOS / ISO Builder / Remix / Lxqt with Kwin](https://samwhelp.github.io/anduinos-iso-builder-remix-lxqt-with-kwin/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-lxqt-with-kwin) | [Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-lxqt.html) |
+### AnduinOS-1
+
+| Upstream |
+| -------- |
+| GitHub / [AnduinOS](https://github.com/Anduin2017/AnduinOS) |
+| GitLab / [AnduinOS](https://gitlab.aiursoft.cn/anduin/anduinos) |
+
+
+
+
+## Respin
+
+> GitHub Search: [anduinos-iso-builder-respin](https://github.com/samwhelp?q=anduinos-iso-builder-respin&tab=repositories&type=&language=&sort=)
 
 
 | Link | GitHub |
 | ---- | ------ |
-| [AnduinOS / Live Build Config / Sample](https://samwhelp.github.io/anduinos-live-build-config-sample/) | [GitHub](https://github.com/samwhelp/anduinos-live-build-config-sample) |  |
+| [AnduinOS-2](https://samwhelp.github.io/AnduinOS-2/) | [GitHub](https://github.com/samwhelp/AnduinOS-2) |
+| [anduinos-iso-builder-template](https://samwhelp.github.io/anduinos-iso-builder-template/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-template) |
+
+
+
+
+| Remix | Respin |
+| ----- | ------ |
+| [anduinos-iso-builder-remix-base](https://github.com/samwhelp/anduinos-iso-builder-remix-base) | [anduinos-iso-builder-respin-base](https://github.com/samwhelp/anduinos-iso-builder-respin-base) |
+| [anduinos-iso-builder-remix-gnome-shell](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell) | [anduinos-iso-builder-respin-gnome-shell](https://github.com/samwhelp/anduinos-iso-builder-respin-gnome-shell) |
+| [anduinos-iso-builder-remix-kde-plasma](https://github.com/samwhelp/anduinos-iso-builder-remix-kde-plasma) | [anduinos-iso-builder-respin-kde-plasma](https://github.com/samwhelp/anduinos-iso-builder-respin-kde-plasma) |
+| [anduinos-iso-builder-remix-xfce](https://github.com/samwhelp/anduinos-iso-builder-remix-xfce) | [anduinos-iso-builder-respin-xfce](https://github.com/samwhelp/anduinos-iso-builder-respin-xfce) |
 
 
 
