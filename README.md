@@ -15,6 +15,7 @@
 
 * [Upstream](#upstream)
 * [Respin](#respin)
+* [Live Account](#live-account)
 * [相關筆記](#相關筆記)
 
 
@@ -66,6 +67,32 @@
 | ----- | ------ |
 | [anduinos-iso-builder-remix-gnome-shell-with-calamares](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell-with-calamares) | [anduinos-iso-builder-respin-gnome-shell-with-calamares](https://github.com/samwhelp/anduinos-iso-builder-respin-gnome-shell-with-calamares) |
 | [anduinos-iso-builder-remix-kde-plasma-theme-breeze-dark](https://github.com/samwhelp/anduinos-iso-builder-remix-kde-plasma/tree/theme-breeze-dark) | [anduinos-iso-builder-respin-kde-plasma](https://github.com/samwhelp/anduinos-iso-builder-respin-kde-plasma/tree/theme-breeze-dark) |
+
+
+
+
+## Live Account
+
+| Account  | Value  |
+| -------- | ------ |
+| Username | `live` |
+| Password |        |
+
+> 目前沒有設定密碼
+
+
+若想要更改目前帳號的密碼，可以執行下面指令
+
+``` sh
+sudo passwd $(whoami)
+```
+
+
+若想要移除目前帳號的密碼，可以執行下面指令
+
+``` sh
+sudo passwd -d $(whoami)
+```
 
 
 
